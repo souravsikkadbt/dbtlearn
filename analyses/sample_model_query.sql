@@ -20,7 +20,6 @@ orders as (
     from dbt-tutorial.jaffle_shop.orders
 
 ),
-
 customer_orders as (
 
     select
